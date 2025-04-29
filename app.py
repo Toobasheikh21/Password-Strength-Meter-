@@ -92,4 +92,4 @@ if st.button("Generate New Password"):
 
 # Footer
 st.markdown("---")
-st.markdown('<div class="footer">Made with ❤️ by <b> ©Azeezullah Noohpoto </b></div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">Made with ❤️ by <b> ©Tooba Sheikh </b></div>', unsafe_allow_html=True)
